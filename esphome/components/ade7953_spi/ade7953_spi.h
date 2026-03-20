@@ -6,8 +6,6 @@
 #include "esphome/components/sensor/sensor.h"
 #include "esphome/components/ade7953_base/ade7953_base.h"
 
-#include <vector>
-
 namespace esphome {
 namespace ade7953_spi {
 
